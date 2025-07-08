@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+rag_env/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore FAISS pickle if it's large (optional)
+*.pkl
+
+# Ignore VS Code settings (optional)
+.vscode/

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MedHelp AI Chat</title>
+</head>
+<body style="margin: 0; background-color: #121212; color: #f0f0f0; font-family: 'Segoe UI', sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh;">
+
+  <div style="background-color: #1e1e1e; padding: 40px; border-radius: 12px; text-align: center; box-shadow: 0 4px 20px rgba(0,0,0,0.6); max-width: 500px;">
+    <h1 style="margin-bottom: 20px; font-size: 2em;">Welcome to MedHelp AI</h1>
+    <p style="font-size: 1.2em;">Our chatbot is here to help guide you to the right medical department.</p>
+  </div>
+
+  <!-- Watson Assistant Chat Widget -->
+  <script>
+    window.watsonAssistantChatOptions = {
+        integrationID: "d926fe80-5016-4c85-b442-18b876ea972e",
+        region: "us-south",
+        serviceInstanceID: "6ebd0059-2a5f-49c3-9b66-a76525174ca6",
+        onLoad: function(instance) { instance.render(); }
+    };
+    setTimeout(function(){
+      const t = document.createElement('script');
+      t.src = "https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+      document.head.appendChild(t);
+    });
+  </script>
+
+</body>
+</html>

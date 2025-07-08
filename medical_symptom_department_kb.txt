@@ -1,0 +1,755 @@
+severe dehydration | Suffering from severe dehydration started for two hours. | Emergency Department (ED)
+crushing severe dehydration | Having crushing severe dehydration appeared since this morning. | Emergency Department (ED)
+choking on food | Having choking on food began for one day. | Emergency Department (ED)
+severe deep stab wound | Suffering from severe deep stab wound appeared for six months. | Emergency Department (ED)
+difficulty breathing | Feeling difficulty breathing came on for two hours. | Emergency Department (ED)
+intermittent high fever in an infant | Noticing intermittent high fever in an infant began for one day. | Emergency Department (ED)
+persistent choking on food | Having persistent choking on food began since last night. | Emergency Department (ED)
+intermittent profuse bleeding | Having intermittent profuse bleeding came on for one day. | Emergency Department (ED)
+burning severe abdominal pain | Feeling burning severe abdominal pain started for six months. | Emergency Department (ED)
+seizure lasting more than five minutes when lying down | Having seizure lasting more than five minutes when lying down started for six months. | Emergency Department (ED)
+stroke-like facial droop at rest | Feeling stroke-like facial droop at rest came on since yesterday. | Emergency Department (ED)
+sharp severe abdominal pain | Suffering from sharp severe abdominal pain began since yesterday. | Emergency Department (ED)
+sudden severe dehydration | Suffering from sudden severe dehydration began for six months. | Emergency Department (ED)
+sharp severe chest pain | Experiencing sharp severe chest pain started for a week. | Emergency Department (ED)
+sharp profuse bleeding | Having sharp profuse bleeding appeared for a week. | Emergency Department (ED)
+choking on food worsening over time | Noticing choking on food worsening over time came on since yesterday. | Emergency Department (ED)
+acute severe allergic reaction for several days | Experiencing acute severe allergic reaction for several days started for one day. | Emergency Department (ED)
+severe abdominal pain | Feeling severe abdominal pain started for a week. | Emergency Department (ED)
+loss of consciousness | Suffering from loss of consciousness came on for 10 minutes. | Emergency Department (ED)
+severe asthma attack when lying down | Noticing severe asthma attack when lying down came on for a week. | Emergency Department (ED)
+severe chest pain | Having severe chest pain started for several weeks. | Emergency Department (ED)
+chronic severe dehydration | Feeling chronic severe dehydration came on since last night. | Emergency Department (ED)
+crushing gunshot wound | Having crushing gunshot wound began for one day. | Emergency Department (ED)
+uncontrolled vomiting of blood | Noticing uncontrolled vomiting of blood began for two hours. | Emergency Department (ED)
+deep stab wound | Experiencing deep stab wound started for six months. | Emergency Department (ED)
+intermittent severe dehydration | Noticing intermittent severe dehydration came on since yesterday. | Emergency Department (ED)
+deep stab wound after meals | Feeling deep stab wound after meals began since last night. | Emergency Department (ED)
+chronic high-speed car accident injuries at night | Experiencing chronic high-speed car accident injuries at night began for three days. | Emergency Department (ED)
+crushing choking on food on exertion | Feeling crushing choking on food on exertion began since last night. | Emergency Department (ED)
+severe asthma attack | Suffering from severe asthma attack appeared for two hours. | Emergency Department (ED)
+sudden numbness | Having sudden numbness began since last night. | Emergency Department (ED)
+broken bone protruding through the skin | Feeling broken bone protruding through the skin began for three days. | Emergency Department (ED)
+seizure lasting more than five minutes at night | Suffering from seizure lasting more than five minutes at night came on since last night. | Emergency Department (ED)
+loss of consciousness after meals | Having loss of consciousness after meals came on for several weeks. | Emergency Department (ED)
+cyanotic lips in the morning | Experiencing cyanotic lips in the morning started for six months. | Emergency Department (ED)
+crushing stroke-like facial droop with minimal activity | Suffering from crushing stroke-like facial droop with minimal activity began for six months. | Emergency Department (ED)
+ingestion of poison | Feeling ingestion of poison came on for three days. | Emergency Department (ED)
+burning difficulty breathing with minimal activity | Having burning difficulty breathing with minimal activity appeared since yesterday. | Emergency Department (ED)
+stroke-like facial droop after meals | Having stroke-like facial droop after meals appeared for several weeks. | Emergency Department (ED)
+sudden numbness in the morning | Having sudden numbness in the morning appeared for 10 minutes. | Emergency Department (ED)
+stroke-like facial droop | Suffering from stroke-like facial droop appeared for one day. | Emergency Department (ED)
+acute gunshot wound at rest | Feeling acute gunshot wound at rest started since last night. | Emergency Department (ED)
+sudden crushing jaw pain | Noticing sudden crushing jaw pain began since last night. | Emergency Department (ED)
+crushing jaw pain | Noticing crushing jaw pain started since last night. | Emergency Department (ED)
+severe uncontrolled vomiting of blood | Suffering from severe uncontrolled vomiting of blood started since this morning. | Emergency Department (ED)
+throbbing cyanotic lips | Feeling throbbing cyanotic lips came on since yesterday. | Emergency Department (ED)
+intermittent choking on food | Suffering from intermittent choking on food appeared for several weeks. | Emergency Department (ED)
+sudden broken bone protruding through the skin | Feeling sudden broken bone protruding through the skin began since yesterday. | Emergency Department (ED)
+crushing gunshot wound for several days | Experiencing crushing gunshot wound for several days appeared for three days. | Emergency Department (ED)
+persistent severe chest pain | Feeling persistent severe chest pain started for one day. | Emergency Department (ED)
+shortness of breath climbing stairs on exertion | Suffering from shortness of breath climbing stairs on exertion started for six months. | Cardiology
+intermittent left arm pain with exertion | Noticing intermittent left arm pain with exertion came on since this morning. | Cardiology
+sharp rapid irregular heartbeat | Noticing sharp rapid irregular heartbeat appeared for six months. | Cardiology
+severe swelling around eyes in morning | Feeling severe swelling around eyes in morning came on for 10 minutes. | Cardiology
+throbbing irregular pulse at wrist in the morning | Suffering from throbbing irregular pulse at wrist in the morning appeared since last night. | Cardiology
+dull chest tightness after stress | Feeling dull chest tightness after stress started for two hours. | Cardiology
+persistent high blood pressure on exertion | Suffering from persistent high blood pressure on exertion started for 10 minutes. | Cardiology
+persistent dizziness when standing | Experiencing persistent dizziness when standing started for three days. | Cardiology
+chronic pressure in chest after meal | Feeling chronic pressure in chest after meal began for six months. | Cardiology
+severe irregular pulse at wrist on exertion | Having severe irregular pulse at wrist on exertion appeared for one day. | Cardiology
+chest fluttering sensation | Experiencing chest fluttering sensation began for 10 minutes. | Cardiology
+crushing dizziness when standing | Suffering from crushing dizziness when standing began since yesterday. | Cardiology
+burning ankle swelling | Experiencing burning ankle swelling started for one day. | Cardiology
+sharp racing pulse at rest | Having sharp racing pulse at rest began for three days. | Cardiology
+persistent fainting during exercise | Having persistent fainting during exercise appeared for two hours. | Cardiology
+crushing slow heart rate | Noticing crushing slow heart rate started for 10 minutes. | Cardiology
+shortness of breath climbing stairs | Having shortness of breath climbing stairs began since yesterday. | Cardiology
+dull heart murmur heard at rest | Having dull heart murmur heard at rest appeared for six months. | Cardiology
+chronic shortness of breath climbing stairs worsening over time | Suffering from chronic shortness of breath climbing stairs worsening over time appeared for three days. | Cardiology
+blue fingertips during cold | Suffering from blue fingertips during cold came on for three days. | Cardiology
+dizziness when standing in the morning | Feeling dizziness when standing in the morning came on for two hours. | Cardiology
+burning heart murmur heard | Noticing burning heart murmur heard began for one day. | Cardiology
+chronic high blood pressure | Feeling chronic high blood pressure started for six months. | Cardiology
+rapid irregular heartbeat | Suffering from rapid irregular heartbeat started since yesterday. | Cardiology
+intermittent ankle swelling after meals | Noticing intermittent ankle swelling after meals came on for 10 minutes. | Cardiology
+dull left arm pain with exertion after meals | Suffering from dull left arm pain with exertion after meals appeared since last night. | Cardiology
+dull rapid irregular heartbeat | Noticing dull rapid irregular heartbeat came on since this morning. | Cardiology
+persistent rapid irregular heartbeat | Suffering from persistent rapid irregular heartbeat started for 10 minutes. | Cardiology
+elevated troponin in the morning | Noticing elevated troponin in the morning began for two hours. | Cardiology
+intermittent heart murmur heard | Suffering from intermittent heart murmur heard came on for three days. | Cardiology
+chronic swelling around eyes in morning | Noticing chronic swelling around eyes in morning started for three days. | Cardiology
+burning dizziness when standing with minimal activity | Experiencing burning dizziness when standing with minimal activity started for a week. | Cardiology
+throbbing shortness of breath climbing stairs | Experiencing throbbing shortness of breath climbing stairs came on since last night. | Cardiology
+chronic swelling around eyes in morning when lying down | Feeling chronic swelling around eyes in morning when lying down started for one day. | Cardiology
+blue fingertips during cold worsening over time | Noticing blue fingertips during cold worsening over time started for two hours. | Cardiology
+intermittent shortness of breath lying flat on exertion | Suffering from intermittent shortness of breath lying flat on exertion started since last night. | Cardiology
+throbbing pounding heartbeat | Noticing throbbing pounding heartbeat appeared since this morning. | Cardiology
+intermittent shortness of breath lying flat | Feeling intermittent shortness of breath lying flat began for a week. | Cardiology
+sudden fainting during exercise for several days | Noticing sudden fainting during exercise for several days came on since last night. | Cardiology
+throbbing irregular pulse at wrist | Suffering from throbbing irregular pulse at wrist began since yesterday. | Cardiology
+throbbing left arm pain with exertion | Having throbbing left arm pain with exertion came on for several weeks. | Cardiology
+shortness of breath lying flat | Noticing shortness of breath lying flat appeared since last night. | Cardiology
+dull dizziness when standing | Experiencing dull dizziness when standing appeared for three days. | Cardiology
+fainting during exercise | Feeling fainting during exercise appeared for six months. | Cardiology
+chest tightness after stress | Experiencing chest tightness after stress came on since yesterday. | Cardiology
+burning abdominal swelling | Experiencing burning abdominal swelling started since last night. | Gastroenterology
+alternating constipation and diarrhea | Noticing alternating constipation and diarrhea appeared for several weeks. | Gastroenterology
+severe sensation of food stuck in chest | Having severe sensation of food stuck in chest appeared for two hours. | Gastroenterology
+persistent alternating constipation and diarrhea at night | Having persistent alternating constipation and diarrhea at night came on for two hours. | Gastroenterology
+vomiting undigested food with minimal activity | Noticing vomiting undigested food with minimal activity started since yesterday. | Gastroenterology
+diarrhea for a week | Experiencing diarrhea for a week appeared since this morning. | Gastroenterology
+projectile vomiting | Noticing projectile vomiting appeared since yesterday. | Gastroenterology
+chronic constipation | Feeling chronic constipation started for a week. | Gastroenterology
+sudden heartburn at night | Feeling sudden heartburn at night appeared for 10 minutes. | Gastroenterology
+heartburn at night | Feeling heartburn at night began for six months. | Gastroenterology
+pain in right upper abdomen | Noticing pain in right upper abdomen began for one day. | Gastroenterology
+sudden alternating constipation and diarrhea on exertion | Feeling sudden alternating constipation and diarrhea on exertion appeared for one day. | Gastroenterology
+acute diarrhea for a week | Having acute diarrhea for a week appeared for several weeks. | Gastroenterology
+loud stomach gurgling | Suffering from loud stomach gurgling came on for several weeks. | Gastroenterology
+intermittent alternating constipation and diarrhea | Having intermittent alternating constipation and diarrhea began for two hours. | Gastroenterology
+throbbing diarrhea for a week at rest | Suffering from throbbing diarrhea for a week at rest started for 10 minutes. | Gastroenterology
+sharp loss of appetite | Having sharp loss of appetite started for a week. | Gastroenterology
+diarrhea for a week with minimal activity | Feeling diarrhea for a week with minimal activity began since this morning. | Gastroenterology
+sensation of food stuck in chest with minimal activity | Experiencing sensation of food stuck in chest with minimal activity started for a week. | Gastroenterology
+burning unexplained weight loss | Suffering from burning unexplained weight loss started for a week. | Gastroenterology
+sudden abdominal pain after eating | Experiencing sudden abdominal pain after eating appeared for two hours. | Gastroenterology
+crushing black tarry stools | Having crushing black tarry stools started since yesterday. | Gastroenterology
+acute difficulty swallowing solids at night | Feeling acute difficulty swallowing solids at night began for one day. | Gastroenterology
+crushing bloating when lying down | Suffering from crushing bloating when lying down started since this morning. | Gastroenterology
+sudden loss of appetite when lying down | Suffering from sudden loss of appetite when lying down came on since last night. | Gastroenterology
+severe heartburn at night when lying down | Noticing severe heartburn at night when lying down started for two hours. | Gastroenterology
+acute unexplained weight loss | Having acute unexplained weight loss came on for 10 minutes. | Gastroenterology
+severe bloating | Having severe bloating appeared for six months. | Gastroenterology
+chronic constipation in the morning | Having chronic constipation in the morning appeared for two hours. | Gastroenterology
+fatty stools | Feeling fatty stools came on for several weeks. | Gastroenterology
+chronic vomiting undigested food | Noticing chronic vomiting undigested food came on for a week. | Gastroenterology
+intermittent abdominal swelling with minimal activity | Having intermittent abdominal swelling with minimal activity started for a week. | Gastroenterology
+sudden projectile vomiting | Noticing sudden projectile vomiting started for six months. | Gastroenterology
+vomiting undigested food | Having vomiting undigested food started for six months. | Gastroenterology
+sharp yellowing skin and eyes worsening over time | Suffering from sharp yellowing skin and eyes worsening over time appeared for 10 minutes. | Gastroenterology
+persistent vomiting undigested food for several days | Suffering from persistent vomiting undigested food for several days started for 10 minutes. | Gastroenterology
+sudden mucus in stool | Experiencing sudden mucus in stool appeared for three days. | Gastroenterology
+vomiting undigested food after meals | Experiencing vomiting undigested food after meals started for a week. | Gastroenterology
+sudden yellowing skin and eyes | Experiencing sudden yellowing skin and eyes came on for one day. | Gastroenterology
+throbbing pain in right upper abdomen | Experiencing throbbing pain in right upper abdomen began since this morning. | Gastroenterology
+sudden diarrhea for a week | Suffering from sudden diarrhea for a week started for 10 minutes. | Gastroenterology
+throbbing abdominal pain after eating | Noticing throbbing abdominal pain after eating appeared for one day. | Gastroenterology
+persistent loud stomach gurgling with minimal activity | Suffering from persistent loud stomach gurgling with minimal activity appeared for six months. | Gastroenterology
+burning heartburn at night | Experiencing burning heartburn at night started for 10 minutes. | Gastroenterology
+indigestion | Having indigestion came on for a week. | Gastroenterology
+chronic weakness on one side | Feeling chronic weakness on one side started for a week. | Neurology
+drooping eyelid | Noticing drooping eyelid appeared for six months. | Neurology
+uncontrolled movements | Feeling uncontrolled movements started since last night. | Neurology
+tingling feet | Feeling tingling feet came on since yesterday. | Neurology
+acute chronic back pain radiating to leg | Experiencing acute chronic back pain radiating to leg began for a week. | Neurology
+intermittent balance problems | Experiencing intermittent balance problems began for several weeks. | Neurology
+severe memory loss of recent events | Feeling severe memory loss of recent events appeared for two hours. | Neurology
+sudden persistent dizziness | Experiencing sudden persistent dizziness began for one day. | Neurology
+persistent difficulty speaking | Experiencing persistent difficulty speaking appeared for two hours. | Neurology
+severe restless legs at night when lying down | Having severe restless legs at night when lying down came on for three days. | Neurology
+dull pins and needles in fingers | Having dull pins and needles in fingers started for 10 minutes. | Neurology
+loss of smell | Noticing loss of smell came on for 10 minutes. | Neurology
+dull uncontrolled movements | Experiencing dull uncontrolled movements appeared since yesterday. | Neurology
+burning loss of smell on exertion | Suffering from burning loss of smell on exertion came on for a week. | Neurology
+intermittent burning sensation in legs | Suffering from intermittent burning sensation in legs appeared for six months. | Neurology
+crushing balance problems | Suffering from crushing balance problems started for several weeks. | Neurology
+sharp difficulty walking straight | Noticing sharp difficulty walking straight appeared for three days. | Neurology
+severe uncontrolled movements | Having severe uncontrolled movements came on for one day. | Neurology
+throbbing pins and needles in fingers | Feeling throbbing pins and needles in fingers came on since yesterday. | Neurology
+persistent frequent headaches at rest | Suffering from persistent frequent headaches at rest came on since yesterday. | Neurology
+burning uncontrolled movements | Suffering from burning uncontrolled movements came on for two hours. | Neurology
+crushing seizures once a month on exertion | Suffering from crushing seizures once a month on exertion appeared for 10 minutes. | Neurology
+slow thinking | Experiencing slow thinking appeared since this morning. | Neurology
+acute slow thinking | Noticing acute slow thinking appeared for one day. | Neurology
+memory loss of recent events for several days | Feeling memory loss of recent events for several days came on for two hours. | Neurology
+acute seizures once a month after meals | Feeling acute seizures once a month after meals appeared for two hours. | Neurology
+acute burning sensation in legs | Having acute burning sensation in legs appeared for several weeks. | Neurology
+numbness in hands on exertion | Suffering from numbness in hands on exertion started for one day. | Neurology
+memory loss of recent events | Suffering from memory loss of recent events appeared for three days. | Neurology
+dull slow thinking | Noticing dull slow thinking came on for two hours. | Neurology
+persistent chronic back pain radiating to leg | Suffering from persistent chronic back pain radiating to leg started for six months. | Neurology
+persistent dizziness with minimal activity | Suffering from persistent dizziness with minimal activity began for several weeks. | Neurology
+acute pins and needles in fingers when lying down | Experiencing acute pins and needles in fingers when lying down appeared for several weeks. | Neurology
+intermittent weakness on one side | Feeling intermittent weakness on one side began for 10 minutes. | Neurology
+seizures once a month | Noticing seizures once a month began for a week. | Neurology
+muscle stiffness | Having muscle stiffness started since this morning. | Neurology
+persistent dizziness | Experiencing persistent dizziness started for 10 minutes. | Neurology
+severe persistent dizziness worsening over time | Experiencing severe persistent dizziness worsening over time started since last night. | Neurology
+persistent frequent headaches | Experiencing persistent frequent headaches appeared for several weeks. | Neurology
+chronic uncontrolled movements | Experiencing chronic uncontrolled movements started since yesterday. | Neurology
+breathlessness climbing one flight of stairs | Having breathlessness climbing one flight of stairs appeared for 10 minutes. | Pulmonology
+severe sudden shortness of breath after flight | Suffering from severe sudden shortness of breath after flight began since this morning. | Pulmonology
+severe tightness in chest | Suffering from severe tightness in chest appeared since last night. | Pulmonology
+intermittent nighttime asthma symptoms at rest | Feeling intermittent nighttime asthma symptoms at rest appeared for three days. | Pulmonology
+severe dry cough for months after exercise | Noticing severe dry cough for months after exercise came on for several weeks. | Pulmonology
+crushing pleuritic chest pain | Having crushing pleuritic chest pain started for several weeks. | Pulmonology
+burning sleep apnea snoring after meals | Noticing burning sleep apnea snoring after meals started for six months. | Pulmonology
+nighttime asthma symptoms | Noticing nighttime asthma symptoms came on for three days. | Pulmonology
+throbbing shortness of breath at rest after meals | Feeling throbbing shortness of breath at rest after meals began since yesterday. | Pulmonology
+severe shortness of breath at rest | Experiencing severe shortness of breath at rest started since this morning. | Pulmonology
+acute breathlessness climbing one flight of stairs | Suffering from acute breathlessness climbing one flight of stairs came on for several weeks. | Pulmonology
+burning recurrent pneumonia | Noticing burning recurrent pneumonia began for three days. | Pulmonology
+severe frequent bronchitis | Feeling severe frequent bronchitis started since last night. | Pulmonology
+severe difficulty breathing when lying flat after meals | Suffering from severe difficulty breathing when lying flat after meals started for a week. | Pulmonology
+coughing up blood | Experiencing coughing up blood started for two hours. | Pulmonology
+tightness in chest when lying down | Noticing tightness in chest when lying down began for a week. | Pulmonology
+dry cough for months | Feeling dry cough for months came on for two hours. | Pulmonology
+severe tightness in chest after meals | Feeling severe tightness in chest after meals came on for six months. | Pulmonology
+intermittent difficulty breathing when lying flat | Suffering from intermittent difficulty breathing when lying flat started for 10 minutes. | Pulmonology
+sharp wheezing | Experiencing sharp wheezing appeared since this morning. | Pulmonology
+dry cough for months at rest | Experiencing dry cough for months at rest came on since this morning. | Pulmonology
+sudden shortness of breath after flight | Noticing sudden shortness of breath after flight came on for 10 minutes. | Pulmonology
+sharp breathlessness climbing one flight of stairs | Feeling sharp breathlessness climbing one flight of stairs began since this morning. | Pulmonology
+sharp noisy breathing | Feeling sharp noisy breathing began since this morning. | Pulmonology
+throbbing chronic smoking cough | Experiencing throbbing chronic smoking cough started since this morning. | Pulmonology
+exposure-related cough | Noticing exposure-related cough started for several weeks. | Pulmonology
+wheezing after exercise | Noticing wheezing after exercise started since this morning. | Pulmonology
+chronic wheezing when lying down | Having chronic wheezing when lying down came on since last night. | Pulmonology
+crushing wheezing at night | Experiencing crushing wheezing at night began since this morning. | Pulmonology
+acute chronic smoking cough | Suffering from acute chronic smoking cough began for several weeks. | Pulmonology
+crushing productive cough with green sputum | Feeling crushing productive cough with green sputum began since yesterday. | Pulmonology
+acute reduced exercise tolerance due to breathlessness | Noticing acute reduced exercise tolerance due to breathlessness appeared for a week. | Pulmonology
+chronic smoking cough | Feeling chronic smoking cough started for several weeks. | Pulmonology
+chronic cough | Suffering from chronic cough appeared for several weeks. | Pulmonology
+intermittent chronic smoking cough after meals | Suffering from intermittent chronic smoking cough after meals came on for six months. | Pulmonology
+crushing noisy breathing for several days | Suffering from crushing noisy breathing for several days appeared for one day. | Pulmonology
+tightness in chest | Having tightness in chest came on for six months. | Pulmonology
+crushing coughing up blood in the morning | Experiencing crushing coughing up blood in the morning came on since yesterday. | Pulmonology
+dull sudden shortness of breath after flight | Experiencing dull sudden shortness of breath after flight came on for 10 minutes. | Pulmonology
+difficulty breathing when lying flat on exertion | Having difficulty breathing when lying flat on exertion came on for several weeks. | Pulmonology
+shin splints | Experiencing shin splints began for 10 minutes. | Orthopedics
+persistent swollen painful knee after injury after exercise | Having persistent swollen painful knee after injury after exercise came on for 10 minutes. | Orthopedics
+persistent hand numbness at night for several days | Noticing persistent hand numbness at night for several days began for one day. | Orthopedics
+crushing neck pain after whiplash | Having crushing neck pain after whiplash appeared for three days. | Orthopedics
+finger joint stiffness morning | Feeling finger joint stiffness morning began for six months. | Orthopedics
+shin splints worsening over time | Having shin splints worsening over time appeared for six months. | Orthopedics
+shin splints on exertion | Suffering from shin splints on exertion started for one day. | Orthopedics
+heel pain when standing | Experiencing heel pain when standing began for six months. | Orthopedics
+sharp heel pain when standing | Feeling sharp heel pain when standing began for three days. | Orthopedics
+tight hamstring muscle for several days | Suffering from tight hamstring muscle for several days started for one day. | Orthopedics
+shin splints after meals | Feeling shin splints after meals started for several weeks. | Orthopedics
+burning shin splints | Having burning shin splints started since this morning. | Orthopedics
+rotator cuff injury symptoms | Experiencing rotator cuff injury symptoms came on for one day. | Orthopedics
+wrist pain typing at night | Having wrist pain typing at night appeared for 10 minutes. | Orthopedics
+throbbing swollen painful knee after injury | Suffering from throbbing swollen painful knee after injury began for a week. | Orthopedics
+chronic rotator cuff injury symptoms | Feeling chronic rotator cuff injury symptoms began for six months. | Orthopedics
+chronic lower back pain | Suffering from chronic lower back pain began for two hours. | Orthopedics
+knee giving way | Suffering from knee giving way came on since yesterday. | Orthopedics
+burning chronic lower back pain | Suffering from burning chronic lower back pain started for six months. | Orthopedics
+severe hip pain while walking | Noticing severe hip pain while walking began since this morning. | Orthopedics
+persistent rotator cuff injury symptoms | Suffering from persistent rotator cuff injury symptoms appeared for 10 minutes. | Orthopedics
+intermittent rotator cuff injury symptoms | Experiencing intermittent rotator cuff injury symptoms started for six months. | Orthopedics
+persistent neck pain after whiplash | Experiencing persistent neck pain after whiplash started for one day. | Orthopedics
+painful bunion at night | Suffering from painful bunion at night started for a week. | Orthopedics
+wrist pain typing | Experiencing wrist pain typing started since this morning. | Orthopedics
+intermittent shin splints | Experiencing intermittent shin splints began for several weeks. | Orthopedics
+burning neck pain after whiplash after meals | Experiencing burning neck pain after whiplash after meals began since last night. | Orthopedics
+acute painful bunion on exertion | Noticing acute painful bunion on exertion started since this morning. | Orthopedics
+painful bunion | Experiencing painful bunion began for six months. | Orthopedics
+sudden heel pain when standing | Noticing sudden heel pain when standing began since last night. | Orthopedics
+sharp rotator cuff injury symptoms | Suffering from sharp rotator cuff injury symptoms started for 10 minutes. | Orthopedics
+tight hamstring muscle | Feeling tight hamstring muscle began since yesterday. | Orthopedics
+persistent heel pain when standing on exertion | Feeling persistent heel pain when standing on exertion began for six months. | Orthopedics
+elbow pain throwing | Noticing elbow pain throwing started for three days. | Orthopedics
+knee pain climbing stairs for several days | Having knee pain climbing stairs for several days began for two hours. | Orthopedics
+sharp racing thoughts | Feeling sharp racing thoughts began for several weeks. | Psychiatry
+throbbing binge eating episodes on exertion | Suffering from throbbing binge eating episodes on exertion came on for one day. | Psychiatry
+insomnia for weeks | Suffering from insomnia for weeks started since this morning. | Psychiatry
+burning unable to relax | Having burning unable to relax came on since yesterday. | Psychiatry
+intermittent insomnia for weeks | Having intermittent insomnia for weeks began since yesterday. | Psychiatry
+acute insomnia for weeks on exertion | Experiencing acute insomnia for weeks on exertion began for two hours. | Psychiatry
+unable to relax with minimal activity | Noticing unable to relax with minimal activity started for several weeks. | Psychiatry
+chronic sleeping too little | Having chronic sleeping too little came on for two hours. | Psychiatry
+sudden flashbacks of trauma | Suffering from sudden flashbacks of trauma appeared for several weeks. | Psychiatry
+difficulty concentrating at work worsening over time | Experiencing difficulty concentrating at work worsening over time appeared for two hours. | Psychiatry
+sleeping too little | Feeling sleeping too little appeared for two hours. | Psychiatry
+auditory hallucinations | Suffering from auditory hallucinations started for two hours. | Psychiatry
+severe loss of interest in activities | Experiencing severe loss of interest in activities appeared for a week. | Psychiatry
+severe excessive worry | Feeling severe excessive worry started since this morning. | Psychiatry
+crushing unable to relax | Suffering from crushing unable to relax came on since this morning. | Psychiatry
+chronic flashbacks of trauma | Feeling chronic flashbacks of trauma began for 10 minutes. | Psychiatry
+feeling worthless | Experiencing feeling worthless appeared for 10 minutes. | Psychiatry
+throbbing racing thoughts | Having throbbing racing thoughts came on since last night. | Psychiatry
+sudden persistent sadness at night | Suffering from sudden persistent sadness at night appeared since yesterday. | Psychiatry
+loss of interest in activities | Feeling loss of interest in activities started since this morning. | Psychiatry
+mood swings | Feeling mood swings came on since this morning. | Psychiatry
+thoughts of self-harm | Noticing thoughts of self-harm began since this morning. | Psychiatry
+feeling detached from reality | Experiencing feeling detached from reality started for three days. | Psychiatry
+burning irritability | Experiencing burning irritability started since this morning. | Psychiatry
+throbbing phobias interfering with life | Having throbbing phobias interfering with life came on for 10 minutes. | Psychiatry
+obsessive hand washing | Having obsessive hand washing began for 10 minutes. | Psychiatry
+persistent binge eating episodes | Noticing persistent binge eating episodes began since yesterday. | Psychiatry
+burning persistent sadness | Suffering from burning persistent sadness appeared for two hours. | Psychiatry
+intermittent phobias interfering with life | Experiencing intermittent phobias interfering with life came on for several weeks. | Psychiatry
+sudden phobias interfering with life after meals | Feeling sudden phobias interfering with life after meals came on since this morning. | Psychiatry
+severe insomnia for weeks | Suffering from severe insomnia for weeks began for several weeks. | Psychiatry
+severe feeling worthless | Noticing severe feeling worthless began for several weeks. | Psychiatry
+sudden sleeping too little | Feeling sudden sleeping too little came on since last night. | Psychiatry
+sudden binge eating episodes | Noticing sudden binge eating episodes began for six months. | Psychiatry
+episodes of mania | Having episodes of mania appeared for six months. | Psychiatry
+lower abdominal pain in pregnancy | Having lower abdominal pain in pregnancy started for 10 minutes. | Obstetrics and Gynecology
+severe painful cramps during periods | Feeling severe painful cramps during periods started for one day. | Obstetrics and Gynecology
+persistent irregular cycles worsening over time | Having persistent irregular cycles worsening over time started for 10 minutes. | Obstetrics and Gynecology
+throbbing pain during intercourse | Noticing throbbing pain during intercourse came on for 10 minutes. | Obstetrics and Gynecology
+crushing severe morning sickness on exertion | Having crushing severe morning sickness on exertion began for three days. | Obstetrics and Gynecology
+irregular cycles | Experiencing irregular cycles appeared since this morning. | Obstetrics and Gynecology
+lower abdominal pain in pregnancy in the morning | Having lower abdominal pain in pregnancy in the morning appeared for a week. | Obstetrics and Gynecology
+hot flashes | Feeling hot flashes began for three days. | Obstetrics and Gynecology
+burning postmenopausal bleeding | Noticing burning postmenopausal bleeding appeared since last night. | Obstetrics and Gynecology
+pelvic pressure | Feeling pelvic pressure started for one day. | Obstetrics and Gynecology
+persistent vaginal discharge with odor | Experiencing persistent vaginal discharge with odor came on for six months. | Obstetrics and Gynecology
+irregular cycles after meals | Experiencing irregular cycles after meals began since last night. | Obstetrics and Gynecology
+chronic nausea during pregnancy | Experiencing chronic nausea during pregnancy started for six months. | Obstetrics and Gynecology
+missed menstrual periods worsening over time | Feeling missed menstrual periods worsening over time appeared since yesterday. | Obstetrics and Gynecology
+chronic positive home pregnancy test | Experiencing chronic positive home pregnancy test started since this morning. | Obstetrics and Gynecology
+missed menstrual periods | Experiencing missed menstrual periods came on for 10 minutes. | Obstetrics and Gynecology
+heavy menstrual bleeding | Feeling heavy menstrual bleeding appeared for two hours. | Obstetrics and Gynecology
+postmenopausal bleeding | Suffering from postmenopausal bleeding came on since this morning. | Obstetrics and Gynecology
+intermittent breast tenderness | Suffering from intermittent breast tenderness appeared for one day. | Obstetrics and Gynecology
+sharp painful cramps during periods | Experiencing sharp painful cramps during periods appeared since this morning. | Obstetrics and Gynecology
+dull vaginal discharge with odor | Experiencing dull vaginal discharge with odor came on since yesterday. | Obstetrics and Gynecology
+severe morning sickness after meals | Suffering from severe morning sickness after meals came on for 10 minutes. | Obstetrics and Gynecology
+pain during intercourse | Having pain during intercourse began since last night. | Obstetrics and Gynecology
+painful cramps during periods | Feeling painful cramps during periods came on for two hours. | Obstetrics and Gynecology
+dull vaginal discharge with odor worsening over time | Experiencing dull vaginal discharge with odor worsening over time began for one day. | Obstetrics and Gynecology
+bleeding in early pregnancy | Noticing bleeding in early pregnancy appeared for a week. | Obstetrics and Gynecology
+intermittent painful cramps during periods | Feeling intermittent painful cramps during periods began since this morning. | Obstetrics and Gynecology
+dull missed menstrual periods | Having dull missed menstrual periods started for 10 minutes. | Obstetrics and Gynecology
+intermittent itching during pregnancy | Noticing intermittent itching during pregnancy began since this morning. | Obstetrics and Gynecology
+chronic itching during pregnancy | Noticing chronic itching during pregnancy started for 10 minutes. | Obstetrics and Gynecology
+acute missed menstrual periods | Having acute missed menstrual periods appeared for several weeks. | Obstetrics and Gynecology
+sharp hot flashes | Experiencing sharp hot flashes started since last night. | Obstetrics and Gynecology
+burning contraception counseling at rest | Having burning contraception counseling at rest began for one day. | Obstetrics and Gynecology
+breast tenderness | Suffering from breast tenderness began for several weeks. | Obstetrics and Gynecology
+chronic prenatal care visit | Feeling chronic prenatal care visit started since yesterday. | Obstetrics and Gynecology
+intermittent difficulty swallowing progressively worse in the morning | Noticing intermittent difficulty swallowing progressively worse in the morning began for six months. | Oncology
+sudden bone pain at night | Having sudden bone pain at night came on for one day. | Oncology
+non-healing ulcer | Experiencing non-healing ulcer began for a week. | Oncology
+acute blood in sputum after exercise | Feeling acute blood in sputum after exercise came on for several weeks. | Oncology
+acute non-healing ulcer | Experiencing acute non-healing ulcer came on for one day. | Oncology
+persistent lump in breast when lying down | Noticing persistent lump in breast when lying down appeared for a week. | Oncology
+blood in urine | Suffering from blood in urine came on for two hours. | Oncology
+unexplained weight loss | Feeling unexplained weight loss came on since last night. | Oncology
+persistent cough for months | Having persistent cough for months came on for one day. | Oncology
+hoarseness lasting over a month | Experiencing hoarseness lasting over a month started for three days. | Oncology
+difficulty swallowing progressively worse | Noticing difficulty swallowing progressively worse began for a week. | Oncology
+acute persistent cough for months | Experiencing acute persistent cough for months began for three days. | Oncology
+crushing blood in sputum | Noticing crushing blood in sputum started for several weeks. | Oncology
+persistent lump in breast | Suffering from persistent lump in breast began for one day. | Oncology
+crushing persistent low-grade fever on exertion | Suffering from crushing persistent low-grade fever on exertion started for 10 minutes. | Oncology
+night sweats after meals | Having night sweats after meals came on for six months. | Oncology
+non-healing ulcer at rest | Feeling non-healing ulcer at rest started for a week. | Oncology
+throbbing family history of colon cancer | Experiencing throbbing family history of colon cancer appeared for three days. | Oncology
+change in mole | Suffering from change in mole started for one day. | Oncology
+sudden unexplained weight loss after exercise | Experiencing sudden unexplained weight loss after exercise appeared for two hours. | Oncology
+persistent low-grade fever | Experiencing persistent low-grade fever appeared for three days. | Oncology
+night sweats | Experiencing night sweats started for three days. | Oncology
+intermittent difficulty swallowing progressively worse | Suffering from intermittent difficulty swallowing progressively worse came on for three days. | Oncology
+bone pain at night | Experiencing bone pain at night began for two hours. | Oncology
+burning bone pain at night | Having burning bone pain at night began since this morning. | Oncology
+crushing difficulty swallowing progressively worse | Feeling crushing difficulty swallowing progressively worse began for three days. | Oncology
+sharp blood in urine | Having sharp blood in urine appeared for 10 minutes. | Oncology
+burning persistent cough for months at rest | Suffering from burning persistent cough for months at rest appeared for one day. | Oncology
+intermittent family history of colon cancer | Having intermittent family history of colon cancer appeared since last night. | Oncology
+persistent non-healing ulcer | Suffering from persistent non-healing ulcer came on for a week. | Oncology
+intermittent hair thinning | Having intermittent hair thinning began for two hours. | Endocrinology
+tremor with weight loss after meals | Having tremor with weight loss after meals began for three days. | Endocrinology
+crushing tremor with weight loss | Noticing crushing tremor with weight loss began for two hours. | Endocrinology
+goiter for several days | Noticing goiter for several days began for six months. | Endocrinology
+persistent unexplained weight gain | Experiencing persistent unexplained weight gain started for 10 minutes. | Endocrinology
+chronic low blood sugar episodes at rest | Having chronic low blood sugar episodes at rest appeared for six months. | Endocrinology
+acute heat intolerance on exertion | Noticing acute heat intolerance on exertion started for 10 minutes. | Endocrinology
+heat intolerance | Suffering from heat intolerance began for six months. | Endocrinology
+severe fatigue despite sleeping well worsening over time | Feeling severe fatigue despite sleeping well worsening over time began for six months. | Endocrinology
+sharp cold intolerance | Feeling sharp cold intolerance began for two hours. | Endocrinology
+heat intolerance after meals | Having heat intolerance after meals came on for 10 minutes. | Endocrinology
+dull heat intolerance at rest | Suffering from dull heat intolerance at rest began for six months. | Endocrinology
+frequent urination at rest | Feeling frequent urination at rest began for one day. | Endocrinology
+severe unexplained weight gain | Suffering from severe unexplained weight gain started for a week. | Endocrinology
+dull brittle nails | Experiencing dull brittle nails began for three days. | Endocrinology
+irregular menstrual cycles | Experiencing irregular menstrual cycles appeared since yesterday. | Endocrinology
+severe low blood sugar episodes | Feeling severe low blood sugar episodes began for three days. | Endocrinology
+throbbing irregular menstrual cycles | Noticing throbbing irregular menstrual cycles appeared for three days. | Endocrinology
+sharp hair thinning | Having sharp hair thinning began for one day. | Endocrinology
+chronic unexplained weight gain | Feeling chronic unexplained weight gain came on since yesterday. | Endocrinology
+sudden unexplained weight gain | Experiencing sudden unexplained weight gain began for one day. | Endocrinology
+increased thirst when lying down | Feeling increased thirst when lying down started since this morning. | Endocrinology
+sharp increased thirst | Feeling sharp increased thirst started for two hours. | Endocrinology
+dull brittle nails on exertion | Noticing dull brittle nails on exertion began for several weeks. | Endocrinology
+acute frequent urination | Feeling acute frequent urination appeared for one day. | Endocrinology
+throbbing tremor with weight loss | Experiencing throbbing tremor with weight loss started for several weeks. | Endocrinology
+dull loss of libido when lying down | Feeling dull loss of libido when lying down began for several weeks. | Endocrinology
+sudden frequent urination | Having sudden frequent urination started for 10 minutes. | Endocrinology
+burning low blood sugar episodes | Feeling burning low blood sugar episodes started for 10 minutes. | Endocrinology
+burning irregular menstrual cycles at rest | Suffering from burning irregular menstrual cycles at rest came on since last night. | Endocrinology
+hair loss patches | Suffering from hair loss patches came on for one day. | Dermatology
+sharp dark spot changing color | Noticing sharp dark spot changing color came on for one day. | Dermatology
+scalp itchiness worsening over time | Experiencing scalp itchiness worsening over time started for several weeks. | Dermatology
+burning nail discoloration | Noticing burning nail discoloration began for three days. | Dermatology
+nail discoloration | Suffering from nail discoloration appeared for two hours. | Dermatology
+ingrown toenail at rest | Suffering from ingrown toenail at rest started since this morning. | Dermatology
+chronic nail discoloration | Noticing chronic nail discoloration came on for six months. | Dermatology
+sharp hair loss patches after meals | Noticing sharp hair loss patches after meals appeared since yesterday. | Dermatology
+persistent eczema flare | Experiencing persistent eczema flare appeared since last night. | Dermatology
+sudden itchy rash at night | Suffering from sudden itchy rash at night came on for six months. | Dermatology
+sharp acne on face | Noticing sharp acne on face began for six months. | Dermatology
+sharp warts on hand | Suffering from sharp warts on hand started since this morning. | Dermatology
+painful blister | Suffering from painful blister started for 10 minutes. | Dermatology
+crushing sunburn peeling | Experiencing crushing sunburn peeling started since yesterday. | Dermatology
+burning cold sore outbreak | Experiencing burning cold sore outbreak came on since yesterday. | Dermatology
+chronic scalp itchiness | Suffering from chronic scalp itchiness came on for several weeks. | Dermatology
+acute warts on hand | Suffering from acute warts on hand began for two hours. | Dermatology
+dull scalp itchiness at night | Suffering from dull scalp itchiness at night appeared for one day. | Dermatology
+sharp cold sore outbreak | Experiencing sharp cold sore outbreak came on for 10 minutes. | Dermatology
+dull hair loss patches after meals | Noticing dull hair loss patches after meals came on for three days. | Dermatology
+severe dark spot changing color | Having severe dark spot changing color came on for six months. | Dermatology
+dark spot changing color | Noticing dark spot changing color came on since this morning. | Dermatology
+painful blister on exertion | Suffering from painful blister on exertion began for three days. | Dermatology
+crushing dark spot changing color | Suffering from crushing dark spot changing color came on for three days. | Dermatology
+hives after food | Feeling hives after food appeared for six months. | Dermatology
+persistent warts on hand | Having persistent warts on hand came on for a week. | Dermatology
+crushing scalp itchiness | Noticing crushing scalp itchiness began for six months. | Dermatology
+itchy rash | Experiencing itchy rash started for a week. | Dermatology
+acute ingrown toenail | Having acute ingrown toenail came on since yesterday. | Dermatology
+intermittent ingrown toenail | Noticing intermittent ingrown toenail came on for one day. | Dermatology
+dull gallbladder attack after meals | Experiencing dull gallbladder attack after meals started since yesterday. | General Surgery
+sharp rectal bleeding requiring surgery | Noticing sharp rectal bleeding requiring surgery began for two hours. | General Surgery
+persistent abdominal wall hernia | Experiencing persistent abdominal wall hernia appeared for 10 minutes. | General Surgery
+sudden rectal bleeding requiring surgery | Suffering from sudden rectal bleeding requiring surgery started for 10 minutes. | General Surgery
+sudden large skin cyst | Experiencing sudden large skin cyst appeared for one day. | General Surgery
+intermittent breast lump needing excision with minimal activity | Feeling intermittent breast lump needing excision with minimal activity came on for several weeks. | General Surgery
+sudden gallbladder attack | Having sudden gallbladder attack started for six months. | General Surgery
+rectal bleeding requiring surgery on exertion | Feeling rectal bleeding requiring surgery on exertion started since last night. | General Surgery
+dull goiter needing removal | Feeling dull goiter needing removal began since yesterday. | General Surgery
+groin hernia bulge | Noticing groin hernia bulge started for six months. | General Surgery
+appendicitis-like pain | Feeling appendicitis-like pain appeared since this morning. | General Surgery
+rectal bleeding requiring surgery | Feeling rectal bleeding requiring surgery appeared for two hours. | General Surgery
+thyroid nodule | Suffering from thyroid nodule began for three days. | General Surgery
+acute gallbladder attack | Suffering from acute gallbladder attack appeared for one day. | General Surgery
+goiter needing removal after meals | Suffering from goiter needing removal after meals appeared for three days. | General Surgery
+large skin cyst with minimal activity | Noticing large skin cyst with minimal activity started for six months. | General Surgery
+painful hemorrhoid | Feeling painful hemorrhoid came on for a week. | General Surgery
+sharp thyroid nodule | Feeling sharp thyroid nodule appeared for one day. | General Surgery
+chronic abdominal wall hernia | Feeling chronic abdominal wall hernia appeared for three days. | General Surgery
+persistent thyroid nodule | Feeling persistent thyroid nodule appeared for 10 minutes. | General Surgery
+persistent gallbladder attack | Feeling persistent gallbladder attack started for six months. | General Surgery
+sudden goiter needing removal | Noticing sudden goiter needing removal came on for 10 minutes. | General Surgery
+severe appendicitis-like pain | Suffering from severe appendicitis-like pain appeared for six months. | General Surgery
+throbbing thyroid nodule on exertion | Having throbbing thyroid nodule on exertion came on since last night. | General Surgery
+breast lump needing excision | Having breast lump needing excision began for 10 minutes. | General Surgery
+persistent goiter needing removal | Noticing persistent goiter needing removal came on since last night. | General Surgery
+persistent goiter needing removal on exertion | Experiencing persistent goiter needing removal on exertion appeared for three days. | General Surgery
+burning thyroid nodule | Feeling burning thyroid nodule came on for 10 minutes. | General Surgery
+crushing groin hernia bulge | Feeling crushing groin hernia bulge started for two hours. | General Surgery
+gallbladder attack | Suffering from gallbladder attack came on since last night. | General Surgery
+high fever for three days | Suffering from high fever for three days started for three days. | Infectious Diseases
+recurrent urinary infections at rest | Experiencing recurrent urinary infections at rest started since this morning. | Infectious Diseases
+tick bite with rash | Feeling tick bite with rash appeared since last night. | Infectious Diseases
+HIV positive test on exertion | Experiencing HIV positive test on exertion appeared for two hours. | Infectious Diseases
+persistent sore throat | Experiencing persistent sore throat began for six months. | Infectious Diseases
+crushing non-healing infected wound | Noticing crushing non-healing infected wound appeared for two hours. | Infectious Diseases
+intermittent tick bite with rash | Experiencing intermittent tick bite with rash came on for a week. | Infectious Diseases
+persistent sore throat with minimal activity | Suffering from persistent sore throat with minimal activity came on for one day. | Infectious Diseases
+HIV positive test | Suffering from HIV positive test began for three days. | Infectious Diseases
+severe HIV positive test | Having severe HIV positive test appeared for three days. | Infectious Diseases
+sudden prolonged diarrhea | Noticing sudden prolonged diarrhea began for a week. | Infectious Diseases
+HIV positive test after exercise | Suffering from HIV positive test after exercise appeared for one day. | Infectious Diseases
+chronic high fever for three days | Experiencing chronic high fever for three days started since this morning. | Infectious Diseases
+chronic persistent sore throat | Feeling chronic persistent sore throat appeared for two hours. | Infectious Diseases
+burning persistent sore throat at night | Having burning persistent sore throat at night came on for 10 minutes. | Infectious Diseases
+severe travel-related fever | Having severe travel-related fever came on for 10 minutes. | Infectious Diseases
+persistent unexplained night sweats | Experiencing persistent unexplained night sweats appeared for three days. | Infectious Diseases
+burning non-healing infected wound | Having burning non-healing infected wound began since this morning. | Infectious Diseases
+chronic unexplained night sweats | Feeling chronic unexplained night sweats came on for a week. | Infectious Diseases
+severe recurrent urinary infections | Having severe recurrent urinary infections came on for six months. | Infectious Diseases
+severe prolonged diarrhea | Having severe prolonged diarrhea began for three days. | Infectious Diseases
+sharp prolonged diarrhea with minimal activity | Experiencing sharp prolonged diarrhea with minimal activity started since last night. | Infectious Diseases
+severe tick bite with rash | Experiencing severe tick bite with rash began since this morning. | Infectious Diseases
+burning prolonged diarrhea | Noticing burning prolonged diarrhea came on for several weeks. | Infectious Diseases
+severe non-healing infected wound after meals | Experiencing severe non-healing infected wound after meals came on for a week. | Infectious Diseases
+sudden high fever for three days | Noticing sudden high fever for three days started since last night. | Infectious Diseases
+travel-related fever when lying down | Having travel-related fever when lying down started since yesterday. | Infectious Diseases
+crushing hepatitis exposure concern | Having crushing hepatitis exposure concern appeared for two hours. | Infectious Diseases
+burning high fever for three days at night | Feeling burning high fever for three days at night began since yesterday. | Infectious Diseases
+dull tick bite with rash | Suffering from dull tick bite with rash came on for two hours. | Infectious Diseases
+sudden leaking urine when coughing at night | Feeling sudden leaking urine when coughing at night came on since last night. | Urology
+burning sudden urge to urinate | Suffering from burning sudden urge to urinate came on for three days. | Urology
+dull leaking urine when coughing after exercise | Feeling dull leaking urine when coughing after exercise appeared for six months. | Urology
+chronic testicular pain | Feeling chronic testicular pain began since last night. | Urology
+sudden burning urination | Having sudden burning urination appeared for 10 minutes. | Urology
+burning urination | Feeling burning urination came on for one day. | Urology
+crushing blood in urine | Experiencing crushing blood in urine started since last night. | Urology
+scrotal swelling when lying down | Suffering from scrotal swelling when lying down came on for six months. | Urology
+throbbing frequent urination at night | Feeling throbbing frequent urination at night came on since last night. | Urology
+sudden leaking urine when coughing in the morning | Experiencing sudden leaking urine when coughing in the morning appeared for two hours. | Urology
+inability to urinate | Experiencing inability to urinate came on for one day. | Urology
+chronic sudden urge to urinate | Feeling chronic sudden urge to urinate appeared for 10 minutes. | Urology
+sharp inability to urinate with minimal activity | Noticing sharp inability to urinate with minimal activity came on for one day. | Urology
+burning urination on exertion | Having burning urination on exertion started for a week. | Urology
+severe flank pain radiating to groin | Having severe flank pain radiating to groin appeared for three days. | Urology
+testicular pain | Feeling testicular pain appeared for three days. | Urology
+frequent urination at night after meals | Suffering from frequent urination at night after meals started for three days. | Urology
+dull inability to urinate | Noticing dull inability to urinate started for 10 minutes. | Urology
+sharp weak urine stream | Noticing sharp weak urine stream came on for one day. | Urology
+intermittent testicular pain | Suffering from intermittent testicular pain started for six months. | Urology
+dull scrotal swelling | Suffering from dull scrotal swelling came on for 10 minutes. | Urology
+intermittent burning urination | Having intermittent burning urination started for six months. | Urology
+acute blood in urine | Noticing acute blood in urine came on for six months. | Urology
+sharp burning urination after meals | Having sharp burning urination after meals came on for three days. | Urology
+severe burning urination | Noticing severe burning urination came on for three days. | Urology
+acute flank pain radiating to groin at rest | Having acute flank pain radiating to groin at rest began since yesterday. | Urology
+flank pain radiating to groin on exertion | Noticing flank pain radiating to groin on exertion came on for six months. | Urology
+persistent flank pain radiating to groin when lying down | Suffering from persistent flank pain radiating to groin when lying down came on since last night. | Urology
+scrotal swelling | Suffering from scrotal swelling came on for 10 minutes. | Urology
+persistent burning urination | Experiencing persistent burning urination started for a week. | Urology
+acute persistent high blood pressure | Having acute persistent high blood pressure began for three days. | Nephrology
+sharp frothy urine at night | Feeling sharp frothy urine at night appeared since last night. | Nephrology
+persistent chronic kidney disease follow‑up | Experiencing persistent chronic kidney disease follow‑up began since this morning. | Nephrology
+chronic kidney disease follow‑up with minimal activity | Noticing chronic kidney disease follow‑up with minimal activity started for a week. | Nephrology
+intermittent recurrent kidney stones | Having intermittent recurrent kidney stones started since last night. | Nephrology
+acute persistent high blood pressure after meals | Feeling acute persistent high blood pressure after meals began for a week. | Nephrology
+frothy urine | Having frothy urine began for two hours. | Nephrology
+severe chronic kidney disease follow‑up after exercise | Having severe chronic kidney disease follow‑up after exercise started for one day. | Nephrology
+intermittent blood in urine | Suffering from intermittent blood in urine started for several weeks. | Nephrology
+dull elevated creatinine | Suffering from dull elevated creatinine came on for six months. | Nephrology
+sharp blood in urine after exercise | Feeling sharp blood in urine after exercise came on for two hours. | Nephrology
+sudden chronic kidney disease follow‑up in the morning | Experiencing sudden chronic kidney disease follow‑up in the morning started for a week. | Nephrology
+recurrent kidney stones | Suffering from recurrent kidney stones began for 10 minutes. | Nephrology
+decreased urine output | Noticing decreased urine output appeared for six months. | Nephrology
+dull recurrent kidney stones | Noticing dull recurrent kidney stones came on for three days. | Nephrology
+severe elevated creatinine at night | Feeling severe elevated creatinine at night began for 10 minutes. | Nephrology
+persistent high blood pressure | Feeling persistent high blood pressure began for six months. | Nephrology
+blood in urine after meals | Suffering from blood in urine after meals came on since last night. | Nephrology
+chronic kidney disease follow‑up | Noticing chronic kidney disease follow‑up appeared for 10 minutes. | Nephrology
+dull blood in urine | Feeling dull blood in urine started for several weeks. | Nephrology
+sharp swelling in legs | Feeling sharp swelling in legs came on since this morning. | Nephrology
+chronic decreased urine output for several days | Noticing chronic decreased urine output for several days began for 10 minutes. | Nephrology
+crushing blood in urine in the morning | Noticing crushing blood in urine in the morning came on for six months. | Nephrology
+chronic blood in urine | Feeling chronic blood in urine appeared since last night. | Nephrology
+nocturnal urination | Suffering from nocturnal urination began since yesterday. | Nephrology
+chronic watery eyes on exertion | Having chronic watery eyes on exertion began since yesterday. | Ophthalmology
+red itchy eyes | Feeling red itchy eyes began for six months. | Ophthalmology
+halos around lights | Having halos around lights appeared for several weeks. | Ophthalmology
+eye pain for several days | Noticing eye pain for several days started for six months. | Ophthalmology
+throbbing loss of peripheral vision | Noticing throbbing loss of peripheral vision started since this morning. | Ophthalmology
+sharp blurry vision | Noticing sharp blurry vision came on for one day. | Ophthalmology
+watery eyes | Experiencing watery eyes appeared for three days. | Ophthalmology
+severe watery eyes | Feeling severe watery eyes started for 10 minutes. | Ophthalmology
+chronic floaters | Feeling chronic floaters started for several weeks. | Ophthalmology
+loss of peripheral vision | Feeling loss of peripheral vision appeared since last night. | Ophthalmology
+dull eye pain at night | Experiencing dull eye pain at night came on since yesterday. | Ophthalmology
+throbbing eye pain | Noticing throbbing eye pain began since yesterday. | Ophthalmology
+severe loss of peripheral vision | Experiencing severe loss of peripheral vision came on for a week. | Ophthalmology
+throbbing floaters for several days | Suffering from throbbing floaters for several days started for a week. | Ophthalmology
+persistent blurry vision worsening over time | Feeling persistent blurry vision worsening over time began for two hours. | Ophthalmology
+dull dry eyes with minimal activity | Experiencing dull dry eyes with minimal activity appeared for a week. | Ophthalmology
+persistent loss of peripheral vision | Having persistent loss of peripheral vision started for three days. | Ophthalmology
+dry eyes worsening over time | Noticing dry eyes worsening over time began for one day. | Ophthalmology
+burning watery eyes | Having burning watery eyes started for one day. | Ophthalmology
+acute halos around lights | Suffering from acute halos around lights started for two hours. | Ophthalmology
+loss of peripheral vision on exertion | Suffering from loss of peripheral vision on exertion appeared for six months. | Ophthalmology
+sharp watery eyes after meals | Noticing sharp watery eyes after meals started for six months. | Ophthalmology
+chronic dry eyes | Having chronic dry eyes came on for a week. | Ophthalmology
+severe red itchy eyes | Having severe red itchy eyes started since last night. | Ophthalmology
+flashes of light | Noticing flashes of light began for 10 minutes. | Ophthalmology
+snoring loudly | Having snoring loudly started for a week. | ENT (Otorhinolaryngology)
+voice hoarseness | Experiencing voice hoarseness came on for one day. | ENT (Otorhinolaryngology)
+persistent dizziness episodes | Having persistent dizziness episodes started since last night. | ENT (Otorhinolaryngology)
+sudden ear pain in the morning | Suffering from sudden ear pain in the morning started for 10 minutes. | ENT (Otorhinolaryngology)
+ringing in ears for several days | Noticing ringing in ears for several days came on for three days. | ENT (Otorhinolaryngology)
+nasal congestion | Suffering from nasal congestion started since this morning. | ENT (Otorhinolaryngology)
+dull ear pain | Feeling dull ear pain came on since yesterday. | ENT (Otorhinolaryngology)
+acute nasal congestion | Suffering from acute nasal congestion started since yesterday. | ENT (Otorhinolaryngology)
+persistent ear pain | Feeling persistent ear pain began for several weeks. | ENT (Otorhinolaryngology)
+chronic hearing loss when lying down | Feeling chronic hearing loss when lying down began for two hours. | ENT (Otorhinolaryngology)
+throbbing snoring loudly at night | Having throbbing snoring loudly at night came on since yesterday. | ENT (Otorhinolaryngology)
+dizziness episodes | Feeling dizziness episodes started for 10 minutes. | ENT (Otorhinolaryngology)
+dull voice hoarseness | Experiencing dull voice hoarseness began for 10 minutes. | ENT (Otorhinolaryngology)
+ringing in ears | Experiencing ringing in ears started for several weeks. | ENT (Otorhinolaryngology)
+burning snoring loudly | Feeling burning snoring loudly appeared for six months. | ENT (Otorhinolaryngology)
+dizziness episodes after meals | Having dizziness episodes after meals began for three days. | ENT (Otorhinolaryngology)
+sharp dizziness episodes after meals | Feeling sharp dizziness episodes after meals started for two hours. | ENT (Otorhinolaryngology)
+sudden nasal congestion | Noticing sudden nasal congestion started for three days. | ENT (Otorhinolaryngology)
+severe dizziness episodes | Having severe dizziness episodes started for several weeks. | ENT (Otorhinolaryngology)
+vertigo when turning head for several days | Noticing vertigo when turning head for several days appeared for one day. | ENT (Otorhinolaryngology)
+sudden dizziness episodes with minimal activity | Feeling sudden dizziness episodes with minimal activity started since last night. | ENT (Otorhinolaryngology)
+intermittent ringing in ears | Having intermittent ringing in ears started since yesterday. | ENT (Otorhinolaryngology)
+persistent ear pain in the morning | Noticing persistent ear pain in the morning started for three days. | ENT (Otorhinolaryngology)
+crushing frequent nosebleeds | Noticing crushing frequent nosebleeds came on for one day. | ENT (Otorhinolaryngology)
+crushing vertigo when turning head | Having crushing vertigo when turning head came on for one day. | ENT (Otorhinolaryngology)
+acute prolonged bleeding from cuts | Experiencing acute prolonged bleeding from cuts began for 10 minutes. | Hematology
+sudden easy bruising | Suffering from sudden easy bruising appeared since yesterday. | Hematology
+burning low platelet count | Noticing burning low platelet count began for six months. | Hematology
+burning swollen lymph nodes at rest | Noticing burning swollen lymph nodes at rest appeared since yesterday. | Hematology
+recurrent nosebleeds | Feeling recurrent nosebleeds started for two hours. | Hematology
+pale skin and gums | Having pale skin and gums started for six months. | Hematology
+crushing easy bruising | Suffering from crushing easy bruising came on for three days. | Hematology
+burning recurrent nosebleeds after exercise | Noticing burning recurrent nosebleeds after exercise started for six months. | Hematology
+swollen lymph nodes | Suffering from swollen lymph nodes came on since this morning. | Hematology
+easy bruising in the morning | Noticing easy bruising in the morning came on for a week. | Hematology
+intermittent fatigue anemia after meals | Experiencing intermittent fatigue anemia after meals appeared for six months. | Hematology
+blood clots in legs | Suffering from blood clots in legs came on for one day. | Hematology
+high white cell count at rest | Having high white cell count at rest started since this morning. | Hematology
+sudden high white cell count at rest | Having sudden high white cell count at rest started for 10 minutes. | Hematology
+high white cell count on exertion | Feeling high white cell count on exertion appeared for two hours. | Hematology
+crushing pale skin and gums | Suffering from crushing pale skin and gums came on for three days. | Hematology
+prolonged bleeding from cuts | Suffering from prolonged bleeding from cuts appeared since last night. | Hematology
+prolonged bleeding from cuts after meals | Suffering from prolonged bleeding from cuts after meals appeared since this morning. | Hematology
+persistent sickle cell pain crisis for several days | Having persistent sickle cell pain crisis for several days appeared since last night. | Hematology
+chronic blood clots in legs in the morning | Noticing chronic blood clots in legs in the morning started since yesterday. | Hematology
+throbbing sickle cell pain crisis worsening over time | Suffering from throbbing sickle cell pain crisis worsening over time began for six months. | Hematology
+intermittent prolonged bleeding from cuts | Experiencing intermittent prolonged bleeding from cuts began for three days. | Hematology
+sudden prolonged bleeding from cuts | Feeling sudden prolonged bleeding from cuts began for six months. | Hematology
+easy bruising | Suffering from easy bruising started for six months. | Hematology
+sharp swollen lymph nodes for several days | Noticing sharp swollen lymph nodes for several days started for 10 minutes. | Hematology
+delayed milestones | Noticing delayed milestones started for six months. | Pediatrics
+colic crying after meals | Feeling colic crying after meals came on for one day. | Pediatrics
+severe fever in toddler | Noticing severe fever in toddler came on since last night. | Pediatrics
+severe persistent cough in child at night | Suffering from severe persistent cough in child at night appeared for three days. | Pediatrics
+sharp persistent cough in child | Experiencing sharp persistent cough in child started for a week. | Pediatrics
+throbbing fever in toddler for several days | Noticing throbbing fever in toddler for several days started since this morning. | Pediatrics
+persistent diarrhea and dehydration | Suffering from persistent diarrhea and dehydration began for one day. | Pediatrics
+sudden fever in toddler | Suffering from sudden fever in toddler came on since last night. | Pediatrics
+vomiting in child | Noticing vomiting in child began since last night. | Pediatrics
+intermittent persistent cough in child | Suffering from intermittent persistent cough in child began since yesterday. | Pediatrics
+poor feeding in infant | Noticing poor feeding in infant came on for two hours. | Pediatrics
+severe ear pulling behavior with minimal activity | Experiencing severe ear pulling behavior with minimal activity started for two hours. | Pediatrics
+chronic persistent cough in child | Noticing chronic persistent cough in child came on for one day. | Pediatrics
+colic crying | Experiencing colic crying appeared for three days. | Pediatrics
+sharp poor feeding in infant | Having sharp poor feeding in infant began for several weeks. | Pediatrics
+school refusal | Experiencing school refusal began for several weeks. | Pediatrics
+burning persistent cough in child at rest | Noticing burning persistent cough in child at rest appeared for one day. | Pediatrics
+throbbing diarrhea and dehydration for several days | Feeling throbbing diarrhea and dehydration for several days started for three days. | Pediatrics
+throbbing rash in child after exercise | Noticing throbbing rash in child after exercise came on for three days. | Pediatrics
+burning fever in toddler | Experiencing burning fever in toddler appeared since last night. | Pediatrics
+persistent cough in child | Noticing persistent cough in child appeared for one day. | Pediatrics
+crushing vomiting in child with minimal activity | Experiencing crushing vomiting in child with minimal activity appeared for three days. | Pediatrics
+fever in toddler with minimal activity | Feeling fever in toddler with minimal activity started for several weeks. | Pediatrics
+crushing colic crying in the morning | Feeling crushing colic crying in the morning appeared for three days. | Pediatrics
+burning poor feeding in infant | Having burning poor feeding in infant began for one day. | Pediatrics
+sharp fatigue and aching joints after exercise | Having sharp fatigue and aching joints after exercise appeared for one day. | Rheumatology
+throbbing joint swelling in hands | Feeling throbbing joint swelling in hands began for 10 minutes. | Rheumatology
+crushing butterfly rash on face for several days | Having crushing butterfly rash on face for several days appeared since this morning. | Rheumatology
+burning morning joint stiffness when lying down | Noticing burning morning joint stiffness when lying down began since last night. | Rheumatology
+joint swelling in hands | Experiencing joint swelling in hands came on for three days. | Rheumatology
+dull chronic muscle pain with minimal activity | Feeling dull chronic muscle pain with minimal activity started since this morning. | Rheumatology
+dry mouth and eyes | Experiencing dry mouth and eyes started for six months. | Rheumatology
+persistent fatigue and aching joints for several days | Feeling persistent fatigue and aching joints for several days appeared for 10 minutes. | Rheumatology
+morning joint stiffness | Suffering from morning joint stiffness came on since this morning. | Rheumatology
+back pain alternating sides | Experiencing back pain alternating sides came on since yesterday. | Rheumatology
+chronic muscle pain on exertion | Feeling chronic muscle pain on exertion appeared since this morning. | Rheumatology
+throbbing fingers turning white in cold | Having throbbing fingers turning white in cold appeared for six months. | Rheumatology
+joint swelling in hands after meals | Experiencing joint swelling in hands after meals appeared for several weeks. | Rheumatology
+acute joint pain after rest after exercise | Experiencing acute joint pain after rest after exercise came on for two hours. | Rheumatology
+joint swelling in hands at rest | Suffering from joint swelling in hands at rest came on for one day. | Rheumatology
+intermittent back pain alternating sides when lying down | Experiencing intermittent back pain alternating sides when lying down came on for three days. | Rheumatology
+severe joint swelling in hands for several days | Suffering from severe joint swelling in hands for several days appeared for several weeks. | Rheumatology
+joint pain after rest | Having joint pain after rest started for 10 minutes. | Rheumatology
+chronic fingers turning white in cold | Noticing chronic fingers turning white in cold began for a week. | Rheumatology
+persistent morning joint stiffness | Having persistent morning joint stiffness came on for several weeks. | Rheumatology
+sudden fatigue and aching joints | Noticing sudden fatigue and aching joints appeared for one day. | Rheumatology
+chronic muscle pain with minimal activity | Suffering from chronic muscle pain with minimal activity appeared since last night. | Rheumatology
+throbbing morning joint stiffness | Having throbbing morning joint stiffness came on for a week. | Rheumatology
+chronic muscle pain | Noticing chronic muscle pain appeared for one day. | Rheumatology
+sharp chronic muscle pain after exercise | Experiencing sharp chronic muscle pain after exercise came on for two hours. | Rheumatology
+allergy to anesthesia concern | Experiencing allergy to anesthesia concern appeared for two hours. | Anesthesiology
+intermittent severe pain requiring epidural with minimal activity | Feeling intermittent severe pain requiring epidural with minimal activity began for two hours. | Anesthesiology
+post‑operative nausea | Feeling post‑operative nausea came on for one day. | Anesthesiology
+dull difficult airway history | Having dull difficult airway history appeared for several weeks. | Anesthesiology
+chronic post‑operative nausea | Noticing chronic post‑operative nausea appeared for one day. | Anesthesiology
+intermittent allergy to anesthesia concern | Experiencing intermittent allergy to anesthesia concern began for six months. | Anesthesiology
+burning post‑operative nausea | Feeling burning post‑operative nausea began since last night. | Anesthesiology
+severe pain requiring epidural | Experiencing severe pain requiring epidural came on since last night. | Anesthesiology
+crushing severe pain requiring epidural in the morning | Experiencing crushing severe pain requiring epidural in the morning started for three days. | Anesthesiology
+chronic severe pain requiring epidural | Suffering from chronic severe pain requiring epidural began since this morning. | Anesthesiology
+persistent severe pain requiring epidural | Noticing persistent severe pain requiring epidural began for a week. | Anesthesiology
+acute difficult airway history at rest | Having acute difficult airway history at rest appeared since this morning. | Anesthesiology
+severe pain requiring epidural in the morning | Experiencing severe pain requiring epidural in the morning appeared for two hours. | Anesthesiology
+intermittent severe pain requiring epidural | Noticing intermittent severe pain requiring epidural came on for two hours. | Anesthesiology
+crushing chronic pain needing nerve block | Experiencing crushing chronic pain needing nerve block came on since yesterday. | Anesthesiology
+burning allergy to anesthesia concern with minimal activity | Noticing burning allergy to anesthesia concern with minimal activity appeared for six months. | Anesthesiology
+crushing pre‑operative anesthesia evaluation | Feeling crushing pre‑operative anesthesia evaluation started for one day. | Anesthesiology
+throbbing post‑operative nausea | Noticing throbbing post‑operative nausea started for a week. | Anesthesiology
+throbbing post‑operative nausea after exercise | Having throbbing post‑operative nausea after exercise came on since this morning. | Anesthesiology
+acute allergy to anesthesia concern | Experiencing acute allergy to anesthesia concern came on since this morning. | Anesthesiology
+mechanical ventilation weaning at night | Experiencing mechanical ventilation weaning at night came on since yesterday. | Intensive Care Unit (ICU)
+chronic severe ARDS | Suffering from chronic severe ARDS appeared for two hours. | Intensive Care Unit (ICU)
+septic shock | Experiencing septic shock came on for three days. | Intensive Care Unit (ICU)
+throbbing septic shock with minimal activity | Feeling throbbing septic shock with minimal activity started for two hours. | Intensive Care Unit (ICU)
+persistent septic shock after meals | Suffering from persistent septic shock after meals began since last night. | Intensive Care Unit (ICU)
+multi‑organ failure | Noticing multi‑organ failure began for one day. | Intensive Care Unit (ICU)
+acute mechanical ventilation weaning | Experiencing acute mechanical ventilation weaning began for one day. | Intensive Care Unit (ICU)
+sudden severe ARDS with minimal activity | Noticing sudden severe ARDS with minimal activity began for 10 minutes. | Intensive Care Unit (ICU)
+intermittent septic shock | Suffering from intermittent septic shock started for one day. | Intensive Care Unit (ICU)
+throbbing septic shock after meals | Suffering from throbbing septic shock after meals came on for one day. | Intensive Care Unit (ICU)
+multi‑organ failure at night | Feeling multi‑organ failure at night began since last night. | Intensive Care Unit (ICU)
+intermittent post‑cardiac arrest care at rest | Suffering from intermittent post‑cardiac arrest care at rest came on since last night. | Intensive Care Unit (ICU)
+acute severe ARDS | Experiencing acute severe ARDS began for a week. | Intensive Care Unit (ICU)
+chronic unstable blood pressure when lying down | Suffering from chronic unstable blood pressure when lying down began for 10 minutes. | Intensive Care Unit (ICU)
+severe post‑cardiac arrest care | Suffering from severe post‑cardiac arrest care began since this morning. | Intensive Care Unit (ICU)
+septic shock after meals | Suffering from septic shock after meals came on for six months. | Intensive Care Unit (ICU)
+persistent unstable blood pressure | Suffering from persistent unstable blood pressure appeared for six months. | Intensive Care Unit (ICU)
+mechanical ventilation weaning | Noticing mechanical ventilation weaning began for six months. | Intensive Care Unit (ICU)
+chronic mechanical ventilation weaning | Experiencing chronic mechanical ventilation weaning started for three days. | Intensive Care Unit (ICU)
+sudden multi‑organ failure | Feeling sudden multi‑organ failure began for 10 minutes. | Intensive Care Unit (ICU)
+throbbing screening mammogram | Feeling throbbing screening mammogram came on for three days. | Radiology
+persistent order chest x‑ray for chronic cough | Having persistent order chest x‑ray for chronic cough came on for one day. | Radiology
+order chest x‑ray for chronic cough when lying down | Experiencing order chest x‑ray for chronic cough when lying down began for 10 minutes. | Radiology
+sharp order chest x‑ray for chronic cough | Feeling sharp order chest x‑ray for chronic cough appeared for three days. | Radiology
+dull screening mammogram | Suffering from dull screening mammogram started since last night. | Radiology
+screening mammogram when lying down | Suffering from screening mammogram when lying down came on for six months. | Radiology
+screening mammogram after meals | Having screening mammogram after meals began for one day. | Radiology
+burning order chest x‑ray for chronic cough | Experiencing burning order chest x‑ray for chronic cough began for two hours. | Radiology
+severe screening mammogram | Noticing severe screening mammogram started for several weeks. | Radiology
+crushing order chest x‑ray for chronic cough | Experiencing crushing order chest x‑ray for chronic cough started for several weeks. | Radiology
+need MRI of knee injury worsening over time | Feeling need MRI of knee injury worsening over time began for 10 minutes. | Radiology
+throbbing bone density test request after meals | Having throbbing bone density test request after meals began for three days. | Radiology
+CT scan for abdominal pain for several days | Experiencing CT scan for abdominal pain for several days appeared for two hours. | Radiology
+CT scan for abdominal pain | Feeling CT scan for abdominal pain came on since this morning. | Radiology
+screening mammogram | Suffering from screening mammogram started since last night. | Radiology
+sharp need MRI of knee injury | Noticing sharp need MRI of knee injury came on for a week. | Radiology
+sudden CT scan for abdominal pain at night | Suffering from sudden CT scan for abdominal pain at night came on since last night. | Radiology
+burning CT scan for abdominal pain | Feeling burning CT scan for abdominal pain began since yesterday. | Radiology
+need MRI of knee injury after exercise | Experiencing need MRI of knee injury after exercise started since yesterday. | Radiology
+need MRI of knee injury at night | Noticing need MRI of knee injury at night began for six months. | Radiology
+dull tissue diagnosis for tumor | Noticing dull tissue diagnosis for tumor started for one day. | Pathology
+sudden frozen section during surgery | Experiencing sudden frozen section during surgery started since yesterday. | Pathology
+analyze biopsy sample | Noticing analyze biopsy sample appeared for two hours. | Pathology
+acute tissue diagnosis for tumor | Feeling acute tissue diagnosis for tumor started for three days. | Pathology
+frozen section during surgery | Noticing frozen section during surgery appeared since yesterday. | Pathology
+tissue diagnosis for tumor | Feeling tissue diagnosis for tumor began for one day. | Pathology
+dull abnormal pap smear for several days | Feeling dull abnormal pap smear for several days began for 10 minutes. | Pathology
+intermittent blood smear review on exertion | Feeling intermittent blood smear review on exertion began for six months. | Pathology
+abnormal pap smear | Suffering from abnormal pap smear started for six months. | Pathology
+sharp frozen section during surgery | Noticing sharp frozen section during surgery appeared for several weeks. | Pathology
+dull frozen section during surgery | Suffering from dull frozen section during surgery began for 10 minutes. | Pathology
+dull tissue diagnosis for tumor with minimal activity | Experiencing dull tissue diagnosis for tumor with minimal activity came on since this morning. | Pathology
+burning abnormal pap smear | Suffering from burning abnormal pap smear came on for 10 minutes. | Pathology
+acute analyze biopsy sample | Noticing acute analyze biopsy sample began for two hours. | Pathology
+intermittent frozen section during surgery | Experiencing intermittent frozen section during surgery came on for six months. | Pathology
+persistent frozen section during surgery | Noticing persistent frozen section during surgery came on for one day. | Pathology
+throbbing frozen section during surgery | Having throbbing frozen section during surgery came on for two hours. | Pathology
+tissue diagnosis for tumor with minimal activity | Feeling tissue diagnosis for tumor with minimal activity came on for several weeks. | Pathology
+sharp abnormal pap smear after exercise | Feeling sharp abnormal pap smear after exercise started since yesterday. | Pathology
+throbbing blood smear review | Experiencing throbbing blood smear review began for one day. | Pathology
+sharp prosthetic training | Noticing sharp prosthetic training came on since this morning. | Physical Medicine and Rehab
+chronic stroke rehabilitation | Feeling chronic stroke rehabilitation came on for two hours. | Physical Medicine and Rehab
+intermittent chronic back pain rehab | Noticing intermittent chronic back pain rehab began for three days. | Physical Medicine and Rehab
+throbbing chronic back pain rehab | Having throbbing chronic back pain rehab began for 10 minutes. | Physical Medicine and Rehab
+prosthetic training | Suffering from prosthetic training began since yesterday. | Physical Medicine and Rehab
+chronic back pain rehab | Suffering from chronic back pain rehab came on for a week. | Physical Medicine and Rehab
+throbbing post‑fracture physiotherapy at rest | Noticing throbbing post‑fracture physiotherapy at rest came on since yesterday. | Physical Medicine and Rehab
+crushing post‑fracture physiotherapy | Noticing crushing post‑fracture physiotherapy came on for 10 minutes. | Physical Medicine and Rehab
+stroke rehabilitation | Suffering from stroke rehabilitation began for three days. | Physical Medicine and Rehab
+acute stroke rehabilitation at rest | Having acute stroke rehabilitation at rest began since yesterday. | Physical Medicine and Rehab
+chronic back pain rehab at night | Experiencing chronic back pain rehab at night appeared since yesterday. | Physical Medicine and Rehab
+sharp post‑fracture physiotherapy for several days | Experiencing sharp post‑fracture physiotherapy for several days began for 10 minutes. | Physical Medicine and Rehab
+dull prosthetic training | Suffering from dull prosthetic training appeared for several weeks. | Physical Medicine and Rehab
+throbbing stroke rehabilitation | Noticing throbbing stroke rehabilitation started since this morning. | Physical Medicine and Rehab
+sports injury rehab with minimal activity | Feeling sports injury rehab with minimal activity began for one day. | Physical Medicine and Rehab
+burning stroke rehabilitation | Feeling burning stroke rehabilitation began since last night. | Physical Medicine and Rehab
+acute post‑fracture physiotherapy in the morning | Having acute post‑fracture physiotherapy in the morning appeared since last night. | Physical Medicine and Rehab
+sharp post‑fracture physiotherapy in the morning | Noticing sharp post‑fracture physiotherapy in the morning came on since yesterday. | Physical Medicine and Rehab
+post‑fracture physiotherapy for several days | Having post‑fracture physiotherapy for several days began for a week. | Physical Medicine and Rehab
+stroke rehabilitation in the morning | Experiencing stroke rehabilitation in the morning came on for a week. | Physical Medicine and Rehab

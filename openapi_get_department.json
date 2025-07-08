@@ -1,0 +1,64 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Medical Department RAG API",
+    "version": "1.0.0",
+    "description": "Determines the appropriate medical department based on patient symptoms using a local RAG system."
+  },
+  "servers": [
+    {
+      "url": "https://95e2-2407-1140-9-7cb8-c8f7-fa6c-ff89-227f.ngrok-free.app",
+      "description": "Local Flask API exposed via ngrok"
+    }
+  ],
+  "paths": {
+    "/get_department": {
+      "post": {
+        "summary": "Retrieve the appropriate department from symptoms",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "symptoms": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "symptoms"
+                ]
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Department identified successfully",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "department": {
+                      "type": "string",
+                      "example": "Emergency Department (ED)"
+                    }
+                  },
+                  "required": [
+                    "department"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "security": []
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {}
+  }
+}
