@@ -168,3 +168,11 @@ Bot: Based on your symptoms, you should consult the Emergency Department (ED).
 
 ---
 
+* Preview of the website
+* ![image](https://github.com/user-attachments/assets/eeb408db-b00a-4f5c-b3e8-2742aba79baf)
+* Now click the blue chat icon in the bottom right to start your query
+* ![image](https://github.com/user-attachments/assets/16a53ed3-ffe0-48fa-8094-757ebbcb6549)
+
+  
+
+
